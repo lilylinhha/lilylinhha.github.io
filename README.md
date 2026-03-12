@@ -1,7 +1,7 @@
 # Portfolio Project
 
 ## Description
-This repository showcases the portfolio project for Lily Hong Linh Ha, focusing on various aspects of Clinical Psychology and the journey toward a Master's degree in this field. The project highlights key learnings, experiences, and skills developed throughout the academic and practical journey.
+This repository showcases the portfolio project for Lily Linh, focusing on various aspects of Clinical Psychology and the journey toward a Master's degree in this field. The project highlights key learnings, experiences, and skills developed throughout the academic and practical journey.
 
 ## Navigation
 - **Home**: Overview of the portfolio's objectives and contents.
